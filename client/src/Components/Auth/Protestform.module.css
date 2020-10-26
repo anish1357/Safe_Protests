@@ -1,0 +1,36 @@
+.btn{
+    height: 50px;
+    width: 55%;
+    border-radius: 25.5px;
+    background-color: #0a2640;
+    color:white;
+    font-size: 125%;
+}
+@media only screen and (min-width:600px)
+{
+    .btn{
+            height: 70px;
+    width: 55%;
+    border-radius: 35.5px;
+    background-color: #0a2640;
+    color:white;
+    font-size: 125%;
+    }
+}
+
+
+.labl {
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+    top: 0;
+    display: inline-block;
+    background: #FFF;
+    margin: 8px 5px;
+    padding: 0 10px;
+    transition: position .2s linear;
+    background: #FFF
+}
+.labl:active{
+    content: "";
+}

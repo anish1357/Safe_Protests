@@ -1,0 +1,36 @@
+.x{
+    background-color: #0a2640;
+}
+.h2{
+    color:white;
+    font-weight: 500;
+    margin: 15%;
+    margin-bottom: 0%;
+}
+.p{
+    margin:15%;
+    margin-top: 5%;
+    color:white;
+    font-size: 125%;
+    margin-bottom: 5%;
+}
+.btn{
+    height:50px;
+    width: 50%;
+    background-color: cyan;
+    border-radius: 35.5px;
+    color: black;
+    margin-left: 22%;
+    font-size: 125%;
+
+}
+@media only screen and (min-width:600px){
+    .btn{
+    height:40px;
+    width: 20%;
+    background-color: cyan;
+    border-radius: 35.5px;
+    color: black;
+    margin-left: 15%;
+}
+}

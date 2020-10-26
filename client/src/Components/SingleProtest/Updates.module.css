@@ -1,0 +1,44 @@
+.btn{
+    height: 50px;
+    width: 35%;
+    border-radius: 25.5px;
+    background-color: #0a2640;
+    color:white;
+    font-size: 125%;
+    margin:2% ;
+}
+.btnc{
+        height: 50px;
+    width: 35%;
+    border-radius: 25.5px;
+    background-color: #e53935;
+    color:white;
+    font-size: 125%;
+    margin:2% ;
+
+}
+
+@media only screen and (min-width:600px)
+{
+    .btn{
+            height: 50px;
+    width: 25%;
+    border-radius: 35.5px;
+    background-color: #0a2640;
+    color:white;
+    font-size: 125%;
+    margin:1% ;
+    
+
+    }
+    .btnc{
+            height: 50px;
+    width: 25%;
+    border-radius: 35.5px;
+    background-color: #e53935;
+    color:white;
+    font-size: 125%;
+    margin:1% ;
+
+    }
+}

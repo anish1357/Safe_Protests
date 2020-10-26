@@ -1,0 +1,26 @@
+
+
+.btn{
+       width:50%;
+    height: 50px;
+     border-radius:25px; 
+    background-color: #d42828;
+    color: white;
+    font-size: 125%;
+    margin-left:5% ;
+    margin-top:7%;
+    
+}
+
+@media only screen and (min-width:600px){
+   .btn{
+             width:70px;
+    height: 50px;
+    /* border-radius: 9.5px; */
+    background-color: #d42828;
+    color: white;
+    font-size: 125%;
+    
+    /* padding: 20%; */
+   }
+}
